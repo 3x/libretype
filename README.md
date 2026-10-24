@@ -1,6 +1,6 @@
 # Libretype (WIP)
 
-> ![CAUTION]
+> [!CAUTION]
 > This project is still in early development and is not ready for production use.
 
 Libretype is a curated library of open-source fonts optimized for excellent web performance. The goal for this project is to be a suitable alternative to Google Fonts' CDN by focusing on:

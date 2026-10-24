@@ -1,0 +1,38 @@
+# Latin Extended-A
+0100-017F
+
+# Latin Extended-B
+0180-024F
+
+# IPA Extensions
+0250-02AF
+
+# Spacing Modifier Letters
+02B0-02FF
+
+# Combining Diacritical Marks
+0300-036F
+
+# Phonetic Extensions
+1D00-1D7F
+
+# Phonetic Extensions Supplement
+1D80-1DBF
+
+# Latin Extended Additional
+1E00-1EFF
+
+# Currency Symbols
+20A0-20CF
+
+# Latin Extended-C
+2C60-2C7F
+
+# Misc. single codepoints
+2020 # Dagger
+2113 # Script Small L
+
+# Characters used in <bearblog.dev> blog footers
+0294 # "LATIN LETTER GLOTTAL STOP"
+0295 # "LATIN LETTER PHARYNGEAL VOICED FRICATIVE"
+1D25 # "LATIN LETTER AIN"

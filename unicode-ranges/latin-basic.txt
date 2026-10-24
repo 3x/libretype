@@ -1,0 +1,30 @@
+# Basic Latin block
+0000-007F
+
+# Latin-1 Supplement block
+0080-00FF
+
+# General Punctuation block
+2000-206F
+
+# Common arrows
+2190-2199
+
+# Individual misc codepoints
+0131 # Latin Small Letter Dotless I
+0152 # Latin Capital Ligature Oe
+0153 # Latin Small Ligature Oe
+02BB # Modifier Letter Turned Comma
+02BC # Modifier Letter Apostrophe
+02C6 # Modifier Letter Circumflex Accent
+02DA # Ring Above
+02DC # Small Tilde
+0304 # Combining Macron
+0308 # Combining Diaeresis
+0329 # Combining Vertical Line Below
+20AC # Euro Sign
+2122 # Trade Mark Sign
+2212 # Minus Sign
+2215 # Division Slash
+FEFF # Zero Width No-Break Space
+FFFD # Replacement Character

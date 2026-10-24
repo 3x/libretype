@@ -1,0 +1,13 @@
+[project]
+name = "libretype"
+version = "2.0.0"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "brotli>=1.2.1",
+    "click>=8.5.0",
+    "fonttools>=4.67.0",
+    "zopfli>=0.4.3",
+]
